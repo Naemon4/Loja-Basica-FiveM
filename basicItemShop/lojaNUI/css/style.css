@@ -1,0 +1,13 @@
+#shop{
+
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    opacity: 50%;
+
+}
+
+h1{
+    font-size: 50px;
+    color: white;
+}
